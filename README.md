@@ -1,2 +1,2 @@
 # FirstRepo
-Following along on a 5 dat Git challenge on udemy
+Following along on a 5 day Git challenge on udemy
